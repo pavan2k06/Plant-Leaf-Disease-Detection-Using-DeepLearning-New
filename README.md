@@ -27,6 +27,11 @@ This project helps farmers and agricultural researchers to identify plant diseas
 - Tkinter for GUI  
 
 ---
+## 🧠 Download Trained Model
 
-## 📂 Project Structure
+The trained model (`leaf_disease_model.h5`) is stored on Google Drive due to size limits:
+
+🔗 **Download Model:**  
+https://drive.google.com/file/d/1kSUPm3IKjIafyEnTN0IiC2PaMkuw5QJb/view?usp=drive_link
+
 
